@@ -28,7 +28,7 @@ twitter_username: 0DDfeed
 github_username: oddfeed
 
 # Build settings
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: rhl-bthr/parchment
 plugins:
   - jekyll-feed
   - jekyll-toc
