@@ -28,7 +28,7 @@ twitter_username: 0DDfeed
 github_username: oddfeed
 
 # Build settings
-theme: minima
+remote_theme: h01000110/windows-95
 plugins:
   - jekyll-feed
   - jekyll-toc
