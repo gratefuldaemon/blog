@@ -23,9 +23,9 @@ email: oddfeed@mailbox.org
 description: >- # this means to ignore newlines until "baseurl:"
   Nothing worth reading, but stuff worth thinking about.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://oddfeed.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 0DDfeed
-github_username: oddfeed
+url: "https://gratefuldaemon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: gratefuldaemon
+github_username: gratefuldaemon
 
 # Build settings
 theme: minima
